@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<node>
+    <teamname>
+        <id>00001</id>
+        <name>케찹</name>
+        <role>발표담당</role>
+        <task>10분이상준비</task>
+    </teamname>
+    <teamname>
+        <id>00002</id>
+        <name>주스</name>
+        <role>피피티</role>
+        <task>대본만들기</task>
+    </teamname>
+    <teamname>
+        <id>00003</id>
+        <name>토마토</name>
+        <role>자료조사</role>
+        <task>데이터파싱</task>
+    </teamname>
+    <teamname>
+        <id>00004</id>
+        <name>도마도</name>
+        <role>서버</role>
+        <task>디비서버만들기</task>
+    </teamname>
+</node>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+<node>
+<teamproject><teamname>team1</teamname>
+<avgprogress>0</avgprogress>
+<team_mem>mem1,mem2</team_mem>
+<due>2016-01-01</due>
+</teamproject><teamproject><teamname>team2</teamname>
+<avgprogress>20</avgprogress>
+<team_mem>mem1,mem3</team_mem>
+<due>2016-08-18</due>
+</teamproject><teamproject><teamname>team3</teamname>
+<avgprogress>10</avgprogress>
+<team_mem>mem1, mem4</team_mem>
+<due>2016-05-27</due>
+</teamproject><teamproject><teamname>모바일프로그래밍2222</teamname>
+<avgprogress>0</avgprogress>
+<team_mem>이예나, 신이나</team_mem>
+<due>2016-06-01</due>
+</teamproject></node>

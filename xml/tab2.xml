@@ -1,0 +1,9 @@
+<node>
+    <schedule>
+        <mon12>3</mon12><mon34>3</mon34><mon56>2</mon56>
+        <tue12>1</tue12><tue34>1</tue34><tue56>0</tue56>
+        <wed12>1</wed12><wed34>1</wed34><wed56>1</wed56>
+        <thu12>1</thu12><thu34>2</thu34><thu56>1</thu56>
+        <fri12>1</fri12><fri34>4</fri34><fri56>2</fri56>
+    </schedule>
+</node>
